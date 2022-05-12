@@ -12,3 +12,6 @@
 
 - 24, 2, 2022，Change some variable names
 
+**E-mail**
+
+Please feel free to contact me: zhouxiuze@foxmail.com
