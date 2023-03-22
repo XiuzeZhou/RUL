@@ -12,6 +12,10 @@
 
 - 24, 2, 2022，Change some variable names
 
+**Dataset CALCE processing reference**
+
+https://github.com/konkon3249/BatteryLifePrediction
+
 **E-mail**
 
 Please feel free to contact me: zhouxiuze@foxmail.com
