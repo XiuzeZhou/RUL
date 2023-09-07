@@ -9,15 +9,11 @@
 - pandas 0.24.2
 
 **Supplementary discussion**
-- 7, 9, 2023, due to the length of the paper, the two parameters of *dropout* and *noise_level* are not discussed. By setting these two parameters, better results can be obtained than in the paper.
+Due to the length of the paper, the two parameters of *dropout* and *noise_level* are not discussed. By setting these two parameters, better results can be obtained than in the paper.
 
-- *noise level = 0.01*
+- *noise level = 0.01*: Setting the value of 1% disturbance is best: too large will degrade performance, too small will have little effect.
 
-Setting the value of 1% disturbance is best: too large will degrade performance, too small will have little effect.
-
-- *dropout = 1e-4~1e-3*
-
-Set a small value for the network dropout to ensure the robustness of the model.
+- *dropout = 1e-4~1e-3*: Set a small value for the network dropout to ensure the robustness of the model.
 
 **Update** 
 
