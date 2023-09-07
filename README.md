@@ -2,7 +2,7 @@
 
 - D. Chen, W. Hong, and X. Zhou, "Transformer Network for Remaining Useful Life Prediction of Lithium-Ion Batteries", IEEE Access, 2022.
 
-**Supplementary discussion**
+**Supplement**
 
 Due to the length of the paper, the two parameters of *dropout* and *noise_level* are not discussed. By setting these two parameters, better results can be obtained than in the paper.
 
