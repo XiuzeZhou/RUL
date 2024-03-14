@@ -20,6 +20,7 @@ Due to the length of the paper, the two parameters of *dropout* and *noise_level
 **Update** 
 
 - 24, 2, 2022，Change some variable names
+- 1, 3, 2024, upload the open sorce of AttMoE
 
 **Dataset CALCE processing reference**
 
