@@ -17,6 +17,8 @@ Due to the length of the paper, the two parameters of *dropout* and *noise_level
 
 - pandas 0.24.2
 
+- mixture_of_experts 0.2.1
+
 **Update** 
 
 - 24, 2, 2022，Change some variable names
