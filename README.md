@@ -1,5 +1,25 @@
-**Reference**
+**Citation**
+```
+@article{chen2022transformer,
+  title={Transformer network for remaining useful life prediction of lithium-ion batteries},
+  author={Chen, Daoquan and Hong, Weicong and Zhou, Xiuze},
+  journal={Ieee Access},
+  volume={10},
+  pages={19621--19628},
+  year={2022},
+  publisher={IEEE}
+}
 
+@article{chen2024attmoe,
+  title={AttMoE: Attention with Mixture of Experts for remaining useful life prediction of lithium-ion batteries},
+  author={Chen, Daoquan and Zhou, Xiuze},
+  journal={Journal of Energy Storage},
+  volume={84},
+  pages={110780},
+  year={2024},
+  publisher={Elsevier}
+}
+```
 - D. Chen, W. Hong, and X. Zhou. "Transformer Network for Remaining Useful Life Prediction of Lithium-Ion Batteries", IEEE Access, 2022.
 - D. Chen and X. Zhou. "AttMoE: Attention with Mixture of Experts for remaining useful life prediction of lithium-ion batteries." Journal of Energy Storage 84 (2024): 110780.
 
