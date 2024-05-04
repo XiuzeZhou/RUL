@@ -20,8 +20,6 @@
   publisher={Elsevier}
 }
 ```
-- D. Chen, W. Hong, and X. Zhou. "Transformer Network for Remaining Useful Life Prediction of Lithium-Ion Batteries", IEEE Access, 2022.
-- D. Chen and X. Zhou. "AttMoE: Attention with Mixture of Experts for remaining useful life prediction of lithium-ion batteries." Journal of Energy Storage 84 (2024): 110780.
 
 **Supplement**
 
