@@ -20,6 +20,9 @@
   publisher={Elsevier}
 }
 ```
+**Figure**
+
+![](figures/TransformerRUL.jpg)
 
 **Supplement**
 
