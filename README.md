@@ -3,7 +3,7 @@
 
 ![](figures/TransformerRUL.jpg)
 
-<img src="figures/TransformerRUL.jpg" width = "50%" />
+<img src="figures/TransformerRUL.jpg" width = "70%" />
 
 # Results
 
