@@ -2,6 +2,7 @@
 # Figure
 
 ![](figures/TransformerRUL.jpg)
+<img src="figures/TransformerRUL.jpg" style="zoom:50%;" />
 
 # Results
 
