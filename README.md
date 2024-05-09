@@ -1,12 +1,17 @@
 
 # Figure
 
-![](figures/TransformerRUL.jpg)
-
 <img src="figures/TransformerRUL.jpg" width = "70%" />
 
 # Results
 
+**Figures of NASA**
+
+<img src="figures/results_nasa.png" width = "100%" />
+
+**Figures of CALCE**
+
+<img src="figures/results_calce.png" width = "100%" />
 
 # Supplement
 
