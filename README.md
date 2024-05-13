@@ -32,8 +32,8 @@ Due to the length of the paper, the two parameters of *dropout* and *noise_level
 # Update
 
 - 6/5/2024, add figures of model and prediction
-- 24/2/2022，Change some variable names
 - 1/3/2024, upload the open sorce of AttMoE
+- 24/2/2022，Change some variable names
 
 **Dataset CALCE processing reference**
 
