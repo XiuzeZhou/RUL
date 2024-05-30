@@ -3,7 +3,7 @@
 
 <img src="figures/TransformerRUL.jpg" width = "70%" />
 
-# Results
+# Results of Transformer
 
 **Figures of NASA**
 
